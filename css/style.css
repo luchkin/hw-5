@@ -1,0 +1,188 @@
+html {
+	/*background: url "../IMG/background.png" repeat-x #0c739f;*/
+	/*background: #0c739f;*/
+	/*background: grey;*/
+
+}
+.clear-fix:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0 auto;
+}
+.page {
+	position: relative;
+	margin: auto;
+	background: url(../img/background.png) 100%;
+	width: 1215px;
+	height: 1064px;
+}
+.hadermenu {
+	width: 1215px;
+	height: 37px;
+	background-color: blue;
+}
+.menu {
+	list-style: none;
+}
+.bottum1 {
+	/*background-color: cadetblue;
+	margin: 5px;
+	padding: 0 2px;
+	color: red;*/
+	width: 470px;
+	/*border: solid;*/
+	float: left;
+	margin: 5px;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.bottum2 {
+	/*background-color: cadetblue;*/
+	margin: 5px;
+	/*padding: 5 5px;*/
+	color: cadetblue;
+	width: 85px;
+	/*border: solid;*/
+	float: left;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.bottum3 {
+	/*background-color: cadetblue;*/
+	margin: 5px;
+	/*padding: 5 10px;*/
+	color: cadetblue;
+	width: 60px;
+	/*border: solid;*/
+	float: left;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.bottum4 {
+	/*background-color: cadetblue;*/
+	margin: 5px;
+	/*padding: 5 5px;*/
+	color: cadetblue;
+	width: 60px;
+	/*border: solid;*/
+	float: left;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.bottum5 {
+	/*background-color: cadetblue;*/
+	margin: 5px;
+	/*padding: 5 5px;*/
+	color: cadetblue;
+	width: 60px;
+	/*border: solid;*/
+	float: left;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.bottum6 {
+	/*background-color: cadetblue;*/
+	margin: 5px;
+	/*padding: 5 5px;*/
+	color: cadetblue;
+	width: 60px;
+	/*border: solid;*/
+	float: left;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.bottum7 {
+
+	/*background-color: cadetblue;*/
+	
+	margin: 5px;
+	/*padding: 5 5px;*/
+	color: cadetblue;
+	width: 110px;
+	/*border: solid;*/
+	float: left;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.bottum8 {
+	margin: 5px;
+	/*background-color: cadetblue;*/
+	/*padding: 5 5px;*/
+	color: cadetblue;
+	width: 180px;
+	/*border: solid;*/
+	float: left;
+	height: 27px;
+	/*margin-right: 1px;
+	cursor: pointer;
+	position: relative;*/
+}
+.form-in {
+	position: absolute;
+	margin: auto;
+	width: 562px;
+	height: 492px;
+	background-color: rgba(111,111,111,0.5);
+}
+.in-put {
+	width: 530px;
+	height: 55px;
+	padding: 0px 5px;
+	margin: 0px 0px 0px 16px;
+}
+
+input {
+	height: 25px;
+	width: 245px;
+	margin: 0px 10px 0px 145px;
+}
+input type="checkbox"{
+	height: 25px;
+	width: 245px;
+	margin: 0px 10px 0px 145px;
+}
+.name-form {
+	width: 562px;	
+	height: 60px;
+	color: white;
+}
+.bottumn-form {
+	width: 562px;
+	height: 495px;
+
+}
+.footer-form {
+	width: 562px;
+	height: 52px;
+}
+button {
+	margin: 0px 120px;
+	width: 300px;
+	height: 30px;
+	background: #5f72b7;
+	color: #88f1e8;
+}
+p {
+	margin: 5px 0px 0px 150px;
+}
